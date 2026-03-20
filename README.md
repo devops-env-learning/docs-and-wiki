@@ -1,1 +1,2 @@
-# docs-and-wiki
+# README
+Repozytorium zawierające instrukcje tworzenia zwirtualizowanego środowiska wytwórczego
